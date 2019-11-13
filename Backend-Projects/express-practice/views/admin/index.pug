@@ -1,0 +1,7 @@
+extends ../templates/common 
+
+block content
+    h1 This is admin page
+    ul
+        each admin in admins
+            li #{admin.name}-#{admin.age}

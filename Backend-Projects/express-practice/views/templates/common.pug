@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        meta(http-equiv="X-UA-Compatible", content="ie=edge")
+        title Document
+        block styles
+        <link rel="stylesheet" href="styles/bootstrap.min.css">
+    body
+        nav.navbar.navbar-dark.bg-dark.navbar-expand-lg
+            a.navbar-brand(href="#") Navbar
+            button.navbar-toggler(type="button", data-toggle="collapse", data-target="#navbarSupportedContent", aria-controls="navbarSupportedContent", aria-expanded="false", aria-label="Toggle navigation")
+                span.navbar-toggler-icon
+            div.collapse.navbar-collapse#navbarSupportedContent
+                ul.navbar-nav.mr-auto
+                    li.nav-item.active
+                        a.nav-link(href="#") Home 
+                            span.sr-only
+                    li.nav-item
+                        a.nav-link(href="#") Link
+                form.form-inline.my-2.my-lg-0
+                    input.form-control.mr-sm-2(type="search", placeholder="Search", aria-label="Search")
+                    button.btn.btn-outline-success.my-2.my-sm-0(type="submit") Search
+        div.container
+            block content
+        block scripts
+        <script src="js/jquery-slim.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>

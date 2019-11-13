@@ -1,0 +1,63 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Pasta - Spaghetti, Dry",
+        "description": "sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum",
+        "imgUrl": "http://dummyimage.com/158x116.jpg/5fa2dd/ffffff"
+    },
+    {
+        "id": 2,
+        "name": "Oil - Food, Lacquer Spray",
+        "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+        "imgUrl": "http://dummyimage.com/189x211.jpg/5fa2dd/ffffff"
+    },
+    {
+        "id": 3,
+        "name": "Chocolate - Milk Coating",
+        "description": "augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus",
+        "imgUrl": "http://dummyimage.com/186x200.png/ff4444/ffffff"
+    },
+    {
+        "id": 4,
+        "name": "Sproutsmustard Cress",
+        "description": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante",
+        "imgUrl": "http://dummyimage.com/204x109.jpg/dddddd/000000"
+    },
+    {
+        "id": 5,
+        "name": "Tuna - Bluefin",
+        "description": "etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent",
+        "imgUrl": "http://dummyimage.com/200x249.png/dddddd/000000"
+    },
+    {
+        "id": 6,
+        "name": "Pie Filling - Pumpkin",
+        "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti",
+        "imgUrl": "http://dummyimage.com/235x231.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 7,
+        "name": "Tea - Decaf 1 Cup",
+        "description": "volutpat eleifend donec ut dolor morbi vel lectus in quam",
+        "imgUrl": "http://dummyimage.com/227x236.png/dddddd/000000"
+    },
+    {
+        "id": 8,
+        "name": "Pie Pecan",
+        "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+        "imgUrl": "http://dummyimage.com/220x164.jpg/5fa2dd/ffffff"
+    },
+    {
+        "id": 9,
+        "name": "Container - Hngd Cll Blk 7x7x3",
+        "description": "a libero nam dui proin leo odio porttitor id consequat in",
+        "imgUrl": "http://dummyimage.com/115x220.jpg/ff4444/ffffff"
+    },
+    {
+        "id": 10,
+        "name": "Bag Clear 10 Lb",
+        "description": "nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis",
+        "imgUrl": "http://dummyimage.com/107x128.jpg/ff4444/ffffff"
+    }]
+}
